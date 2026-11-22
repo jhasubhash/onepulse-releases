@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepulse-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.3.2</title>
+      <pubDate>Sun, 22 Nov 2026 16:21:40 GMT</pubDate>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Fixed: on iPhone, the Goals page could be dragged sideways. No page scrolls sideways now.</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepulse-releases/releases/download/v0.3.2/OnePulse-0.3.2.dmg" type="application/octet-stream" sparkle:edSignature="VQ3N0cT0hkd8gLZeF+gR1afK3yvRL65ESjGTS6adSNUDiPdx+oJHj0rfUaUWud+Cj34MwdvvHiNyZOJM5QuMCA==" length="8189351"/>
+    </item>
+    <item>
       <title>Version 0.3.1</title>
       <pubDate>Sun, 22 Nov 2026 15:16:55 GMT</pubDate>
       <sparkle:version>23</sparkle:version>
