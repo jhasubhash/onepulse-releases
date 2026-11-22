@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>OnePulse</title>
+    <link>https://github.com/jhasubhash/onepulse-releases</link>
+    <language>en</language>
+    <item>
+      <title>Version 0.2.0</title>
+      <pubDate>Sun, 22 Nov 2026 08:47:47 GMT</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>The first public release of OnePulse for Mac.</p><h3>New</h3><ul><li>Every time chart is interactive: hover for the exact values, drag across to zoom into any period, then move earlier or later.</li><li>&quot;All&quot; range on Heart, Sleep and Training Load, for your complete history.</li><li>The iPad gets its own sidebar dashboard, like the Mac.</li><li>Updates through Sparkle: OnePulse checks in the background, or use OnePulse › Check for Updates….</li><li>Install with Homebrew: brew install --cask jhasubhash/tap/onepulse</li></ul><h3>Fixed</h3><ul><li>Training Load&#x27;s range picker with the new All option.</li><li>Importing several lab PDFs at once keeps every report.</li><li>The resting heart rate line is readable in light mode.</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepulse-releases/releases/download/v0.2.0/OnePulse-0.2.0.dmg" type="application/octet-stream" sparkle:edSignature="ipvwl0K54rBRrSlK9xYVD1nVEpc/EjMW8mOliOHIBjjQ8rLVXSDI/F3wSsY3jL76CGmigo4o7LN8vsb7iz33Dw==" length="6941869"/>
+    </item>
+  </channel>
+</rss>
