@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepulse-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.2.2</title>
+      <pubDate>Sun, 22 Nov 2026 11:17:19 GMT</pubDate>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>New</h3><ul><li>**Activity Rings page.** Tapping the rings card on Summary now opens all three rings: today (or any day you pick), days closed and streaks for Move, Exercise and Stand, a five-week calendar of rings, and a chart for each ring against your goal.</li></ul><h3>Fixed</h3><ul><li>Metric pages showed &quot;–&quot; instead of today&#x27;s total (steps, energy, distance and other daily totals).</li><li>Workouts: the weekly chart no longer flickers when you hover over it.</li><li>Compare fits the iPhone screen; the correlation grid fits four metrics and scrolls sideways for more.</li><li>Labels no longer break across two lines: the Readiness legend, the Range picker, metric subtitles and Compare metric names.</li><li>Workout totals sit in one row (or two even rows), and page header buttons line up with the cards.</li><li>Smaller fixes: a readable average label on charts, &quot;1 batch&quot; on Sync, &quot;Tap&quot; instead of &quot;Click&quot; on iPhone and iPad.</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepulse-releases/releases/download/v0.2.2/OnePulse-0.2.2.dmg" type="application/octet-stream" sparkle:edSignature="FrLLgLs24TDVnq0X6UMyMWWtOMqUmrmX46K+4y21crVgGO3BI0TnXmGgPBiO68mCa8hAPv3wXzmmgMYWh07pCA==" length="7181576"/>
+    </item>
+    <item>
       <title>Version 0.2.1</title>
       <pubDate>Sun, 22 Nov 2026 10:35:50 GMT</pubDate>
       <sparkle:version>20</sparkle:version>
