@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepulse-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.2.1</title>
+      <pubDate>Sun, 22 Nov 2026 10:35:50 GMT</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>New</h3><ul><li>**Compare any number of metrics** (2–8): a matrix shows how every pair moves together, the strongest links are listed, and all of them share one chart over time. Click a square for that pair&#x27;s details.</li><li>Metrics logged only now and then (like weight) show as their readings, with a note when there are too few to compare.</li><li>An &quot;Updating…&quot; badge when a screen is recalculating.</li></ul><h3>Improved</h3><ul><li>Much faster: switching periods on Compare went from seconds to a fraction of one, and other screens that go day by day are quicker too.</li><li>Goal cards side by side now line up.</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepulse-releases/releases/download/v0.2.1/OnePulse-0.2.1.dmg" type="application/octet-stream" sparkle:edSignature="oBMs/+zSZ6ZbUDX7bD64zsRWWT1EyvhFJERqf2/29q8fuGcbGmb72kOhDRQqqltuO7gzGUbvh0SxdfyrGIlNBg==" length="7054198"/>
+    </item>
+    <item>
       <title>Version 0.2.0</title>
       <pubDate>Sun, 22 Nov 2026 08:47:47 GMT</pubDate>
       <sparkle:version>19</sparkle:version>
