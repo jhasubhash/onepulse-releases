@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepulse-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.3.0</title>
+      <pubDate>Sun, 22 Nov 2026 14:15:05 GMT</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>New: streaks and motivation</h3><ul><li>**Streaks that forgive a day off.** Every ring and habit goal keeps a streak. Plan up to two rest days a week, and every 7 days kept earns a freeze (up to 2) that covers a missed day. Settings are behind the gear on the Goals page.</li><li>**Targets that adapt.** On &quot;Take it easy&quot; readiness days, 85% of a ring or activity goal keeps the streak (75% on Recover days). When a habit is kept almost every day for two weeks, its card offers a slightly higher target.</li><li>**Evening reminder (iPhone).** One nudge at 7 pm (you can change it) when a streak is close but not kept yet, e.g. &quot;12 min of exercise keeps your 9-day streak&quot;.</li><li>**Monday check-in (iPhone).** Last week in two lines, your streaks, the month&#x27;s challenge and one thing to work on. Tap it for the full weekly review.</li><li>**Records &amp; Milestones.** Personal bests from your history, and badges for steps, distance, workouts and ring streaks, with progress towards the next one.</li><li>**Monthly challenge.** One ring goal for the month, set a little above last month.</li><li>**Year in Review.** Your year in numbers, with a story-sized image to share. Heart and fitness numbers stay off the image.</li><li>**What it&#x27;s doing for you.** How your sleep, readiness, HRV and resting heart rate compare after the days you keep a streak.</li><li>**Habit calendar.** A year of any streak at a glance, with your hardest weekday. Tap a streak on the Goals page.</li><li>**Streaks widget.** For the Lock Screen and Home Screen, and the Mac.</li><li>**For agents:** a new MCP tool, `get_streaks`.</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepulse-releases/releases/download/v0.3.0/OnePulse-0.3.0.dmg" type="application/octet-stream" sparkle:edSignature="tpwVODrioJ+WKAyVe2QZaUn+DcRbxz9piyMNWy3Ve8kNTx0Vhdo5J4rNe07t2Nw3ZfZqy8ivbAyAuyHPLgXRDw==" length="8159634"/>
+    </item>
+    <item>
       <title>Version 0.2.2</title>
       <pubDate>Sun, 22 Nov 2026 11:17:19 GMT</pubDate>
       <sparkle:version>21</sparkle:version>
