@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepulse-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.3.1</title>
+      <pubDate>Sun, 22 Nov 2026 15:16:55 GMT</pubDate>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Fixed</h3><ul><li>Metric pages (Steps, Weight and others): the Average, Lowest, Highest and Total row no longer sits on top of the chart, and the samples line under the name isn&#x27;t cut off on iPhone.</li><li>Goal editor: the unit sits next to the target instead of under the label.</li><li>Charts in light mode: the &quot;avg&quot; label and the tap callout were black pills; they&#x27;re readable again.</li><li>Habit calendar on iPhone: shows about six months at a readable size instead of a year of tiny dots.</li><li>Summary: milestone names no longer get cut off.</li></ul><h3>Changed</h3><ul><li>**What it&#x27;s doing for you** now needs at least 20 days each of kept and missed days before showing a difference, so a few unusual days can&#x27;t decide it. Findings are grouped under each streak, the card sits below your goals, and each streak&#x27;s habit calendar shows its own findings.</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepulse-releases/releases/download/v0.3.1/OnePulse-0.3.1.dmg" type="application/octet-stream" sparkle:edSignature="yTP5wy4bUqQGVDN6G2H1OpmLv0H0arz5dkpAvyAhj/C5r7qOg+jIajnDhnyI1R8DEin98nallwomqTBUh7WLCg==" length="8189985"/>
+    </item>
+    <item>
       <title>Version 0.3.0</title>
       <pubDate>Sun, 22 Nov 2026 14:15:05 GMT</pubDate>
       <sparkle:version>22</sparkle:version>
