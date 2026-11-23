@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepulse-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.3.5</title>
+      <pubDate>Mon, 23 Nov 2026 12:11:29 GMT</pubDate>
+      <sparkle:version>27</sparkle:version>
+      <sparkle:shortVersionString>0.3.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>ECG recordings from Apple Watch: a new ECG card on the Heart page, each recording drawn on ECG paper with its result and a beat-to-beat chart.</li><li>Workout details: tap a workout for its route map coloured by pace, elevation, per-km splits and heart-rate zones.</li><li>Siri and Shortcuts: ask for readiness, sleep, streaks, any metric, your last workout or ECG, log a medication, or open a page.</li><li>Spotlight: search your metrics and OnePulse pages.</li><li>The heads-up card on Summary can be dismissed.</li><li>Fix: daily charts could miss the morning of the first day for some metrics.</li><li>The iPhone asks once more for Health access, to read ECGs and workout routes.</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepulse-releases/releases/download/v0.3.5/OnePulse-0.3.5.dmg" type="application/octet-stream" sparkle:edSignature="Ibj1/SXk48GUMiH2dZkENAP3TdS1qrcM2ksJhHDqFMNCy22vhUAAsXniM1RxxL4eiSFsO+edneH4IYzu8O9aAQ==" length="9206179"/>
+    </item>
+    <item>
       <title>Version 0.3.4</title>
       <pubDate>Mon, 23 Nov 2026 05:36:45 GMT</pubDate>
       <sparkle:version>26</sparkle:version>
