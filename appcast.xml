@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepulse-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.3.3</title>
+      <pubDate>Mon, 23 Nov 2026 04:42:49 GMT</pubDate>
+      <sparkle:version>25</sparkle:version>
+      <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>New widgets: Steps, Medications (tap to mark a dose taken), Sleep, Metric (choose any metric) and Goal (choose a goal), with Lock Screen sizes on iPhone.</li><li>Fixed: Mac sync could stop after an iCloud download failed, until the app was relaunched.</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepulse-releases/releases/download/v0.3.3/OnePulse-0.3.3.dmg" type="application/octet-stream" sparkle:edSignature="4ZA2bcTQ5Ylrj6nxJiWZb4aH+0g0uuoAL9nmCFrKUU+RdvLq1SO7upS0X/IzumDh5VC7oLudFHXiZdYCdVxQAA==" length="8649020"/>
+    </item>
+    <item>
       <title>Version 0.3.2</title>
       <pubDate>Sun, 22 Nov 2026 16:21:40 GMT</pubDate>
       <sparkle:version>24</sparkle:version>
