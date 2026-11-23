@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepulse-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.3.6</title>
+      <pubDate>Mon, 23 Nov 2026 12:55:06 GMT</pubDate>
+      <sparkle:version>28</sparkle:version>
+      <sparkle:shortVersionString>0.3.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Fix: after updating, the iPhone didn&#x27;t ask for access to ECGs and workout routes, and Cloud Sync stopped with &quot;Authorization not determined&quot;. It now asks once when you open the app, and the rest of your data keeps syncing until you answer.</li><li>The iPad now checks for new data each time you open it.</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepulse-releases/releases/download/v0.3.6/OnePulse-0.3.6.dmg" type="application/octet-stream" sparkle:edSignature="PKxyLG8mn21lHbJzr57xo2ZTbAXJ6eY8MADUsnlVe2wJ7GrAUgQdwmHgfw2f1SQD5DbcxD5e4WiO7QyQBnsvCA==" length="9208723"/>
+    </item>
+    <item>
       <title>Version 0.3.5</title>
       <pubDate>Mon, 23 Nov 2026 12:11:29 GMT</pubDate>
       <sparkle:version>27</sparkle:version>
