@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepulse-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.3.4</title>
+      <pubDate>Mon, 23 Nov 2026 05:36:45 GMT</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Tapping a widget opens its page: Steps and Metric open that metric, Sleep, Medications, Readiness, Streaks and Goal open theirs.</li><li>Steps (and any metric with a daily goal): bars are green when you hit the day&#x27;s goal (eased goals count), yellow when close and red when well short, with a goal line.</li><li>New streak card on those pages: days in a row, best, what&#x27;s left today, the last 14 days, and your best day. Edit the goal right from the card.</li><li>Confetti the first time you open the page after reaching the day&#x27;s goal.</li><li>Activity pages without a daily goal offer to set one.</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepulse-releases/releases/download/v0.3.4/OnePulse-0.3.4.dmg" type="application/octet-stream" sparkle:edSignature="Ybw74hUjLaJ3sigJ/wNOc/7KkPdSLOBHxtU1i6rz0FUviC4JVSnYUOeEraqsMtYXxCIPPuYo0s+8K2Mu3OUEBw==" length="8761942"/>
+    </item>
+    <item>
       <title>Version 0.3.3</title>
       <pubDate>Mon, 23 Nov 2026 04:42:49 GMT</pubDate>
       <sparkle:version>25</sparkle:version>
