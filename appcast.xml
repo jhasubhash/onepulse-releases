@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepulse-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.4.0</title>
+      <pubDate>Tue, 24 Nov 2026 09:54:17 GMT</pubDate>
+      <sparkle:version>29</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>OnePulse 0.4.0 adds training: a gym logger, guided workouts, plans and an Apple Watch app.</p><ul><li>**Train page:** log workouts set by set, save routines, and see your history and personal records. Each set shows what you did last time and what to try next.</li><li>**Exercise library:** 171 exercises with a picture of each move, as a woman or a man (pick one in Training Settings).</li><li>**Guided workouts:** Quick HIIT, Full Body, Core and Mobility, plus Chest, Back, Shoulders, Arms, Legs, Glutes, Upper and Lower Body in 10, 20 or 30 minutes. They&#x27;re built from the equipment where you train, with spoken cues in a woman&#x27;s or man&#x27;s voice to match your picture.</li><li>**Plans and a daily suggestion:** multi-week training plans, and a workout picked for today from your readiness: lighter on tired days, harder on good ones.</li><li>**Apple Watch:** start your plan, a routine or a guided workout right from the Watch, without the iPhone. You get heart rate, calories, reps counted from your wrist, rest timers and timed sets. Workouts started on the iPhone open on the Watch too.</li><li>**Apple Health:** finished workouts are saved with calories estimated from your body and heart rate.</li><li>**Progress:** a muscle recovery map, training goals (workouts per week, lift targets), and training on Summary, Weekly Review and Year in Review. The workout also shows on the Lock Screen and in the Dynamic Island.</li><li>Live step count on the iPhone.</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepulse-releases/releases/download/v0.4.0/OnePulse-0.4.0.dmg" type="application/octet-stream" sparkle:edSignature="17DY9AxUdaMI6Csx6X8gXm62ikDgR9fbBhG7HLkx+s59KSDJGgNt5PE9QRUqysiRcUN7cUXJv5sKeolNkYqeCg==" length="18812819"/>
+    </item>
+    <item>
       <title>Version 0.3.6</title>
       <pubDate>Mon, 23 Nov 2026 12:55:06 GMT</pubDate>
       <sparkle:version>28</sparkle:version>
