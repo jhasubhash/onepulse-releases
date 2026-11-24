@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepulse-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.4.4</title>
+      <pubDate>Tue, 24 Nov 2026 15:08:18 GMT</pubDate>
+      <sparkle:version>33</sparkle:version>
+      <sparkle:shortVersionString>0.4.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Fix: tapping a widget while OnePulse was already open only brought the app to the front; it now opens the widget&#x27;s page.</li><li>Tapping a notification opens the page it&#x27;s about: health alerts open their metric or page, Rest over opens your workout, check-in and medication reminders open Body Progress and Medications.</li><li>Metric pages open on the week view, with the chart first and the goal streak below it.</li><li>Metric charts show as soon as their numbers are in, with a spinner instead of &quot;No data in this range&quot; while loading.</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepulse-releases/releases/download/v0.4.4/OnePulse-0.4.4.dmg" type="application/octet-stream" sparkle:edSignature="BhewM8qEMlPcPZ3/GEOLA8bsU7xzw+sXcv+gXzY8PLHIk45uhu3mkXjrXBM3KfZoS+iZ7kvOj2x7V0aV2BBZCQ==" length="18891886"/>
+    </item>
+    <item>
       <title>Version 0.4.3</title>
       <pubDate>Tue, 24 Nov 2026 12:55:19 GMT</pubDate>
       <sparkle:version>32</sparkle:version>
