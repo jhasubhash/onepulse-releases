@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepulse-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.4.3</title>
+      <pubDate>Tue, 24 Nov 2026 12:55:19 GMT</pubDate>
+      <sparkle:version>32</sparkle:version>
+      <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Fix: the Train page could freeze for a few seconds while scrolling, especially right after switching back to OnePulse.</li><li>Fix: discarding a workout in progress could seem to do nothing, because older abandoned workouts took its place. Empty workouts no longer pile up.</li><li>Swipe a workout in progress and tap Discard to remove it straight away (it only asks when sets were logged).</li><li>Steps widget: shows Health&#x27;s total plus the steps your iPhone counted since, refreshing about every 10 minutes while you walk.</li><li>Tapping a widget opens its page straight away, without loading Summary first.</li><li>Tidier update card on Summary, and a quieter &quot;Updating&quot; hint while new Health data loads.</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepulse-releases/releases/download/v0.4.3/OnePulse-0.4.3.dmg" type="application/octet-stream" sparkle:edSignature="LHxF7cSgFa2EcBoLOoHWXuYi5FfXfgYjbCjk05kNICatX29/8t2pM1oUdWvuPOhsbTUfP8H1F7KpCYlJugcfAA==" length="18884630"/>
+    </item>
+    <item>
       <title>Version 0.4.2</title>
       <pubDate>Tue, 24 Nov 2026 11:41:27 GMT</pubDate>
       <sparkle:version>31</sparkle:version>
