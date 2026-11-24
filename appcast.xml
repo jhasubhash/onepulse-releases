@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepulse-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.4.2</title>
+      <pubDate>Tue, 24 Nov 2026 11:41:27 GMT</pubDate>
+      <sparkle:version>31</sparkle:version>
+      <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Steps widget keeps counting while OnePulse is closed: it reads your iPhone&#x27;s step count itself, refreshing about every 10 minutes while you walk.</li><li>Apple Watch: exercise pictures, with the same moving two-pose loop as the iPhone, during a workout and in its preview.</li><li>Training plans: the plan card&#x27;s ⋯ menu gives new exercises (same goal and progress), a new plan, or ends the plan.</li><li>Fix: Discard on a workout in progress did nothing, and swiping its card often opened the workout.</li><li>Fix: backing out of a new routine left an empty routine behind.</li><li>Fix: the Train page could freeze for a few seconds while scrolling.</li><li>Confirmation dialogs now open next to the button you tapped.</li><li>Smaller fixes: exercise pictures no longer flash both poses at once, weights are formatted the same everywhere, recovery and exercise record details are no longer cut off, and the plan page is clearer.</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepulse-releases/releases/download/v0.4.2/OnePulse-0.4.2.dmg" type="application/octet-stream" sparkle:edSignature="+ByydRwqoCvEVUNNhP1J5byrIV256fU/5CQR4M1iizqN0RK21oIo/nPqs74VeiOMSbmUtRpJmIfJrFfVQL+DDA==" length="18857598"/>
+    </item>
+    <item>
       <title>Version 0.4.1</title>
       <pubDate>Tue, 24 Nov 2026 10:24:08 GMT</pubDate>
       <sparkle:version>30</sparkle:version>
