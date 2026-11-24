@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepulse-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.4.1</title>
+      <pubDate>Tue, 24 Nov 2026 10:24:08 GMT</pubDate>
+      <sparkle:version>30</sparkle:version>
+      <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Apple Watch: if a workout can&#x27;t start, the Watch now says why (for example, when Health hasn&#x27;t been allowed to save workouts) instead of doing nothing. A workout left half-started no longer blocks the next one.</li><li>Discard a paused workout from the Train page: swipe its card left, or long-press it.</li><li>Fix: the place menu (&quot;At Home&quot;) showed twice on the iPhone&#x27;s Train and Exercises pages.</li><li>Tidier Train page: the Empty workout button no longer wraps, and the guided workouts footer is shorter.</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepulse-releases/releases/download/v0.4.1/OnePulse-0.4.1.dmg" type="application/octet-stream" sparkle:edSignature="DWU4CmnlbAgOY9XVOfrN2SnGTubQIH72LlFptfVAJPs0AyohhAeEhiWWN6rNGfSwMA5SxEk4hpCkgecb+5w8DQ==" length="18821002"/>
+    </item>
+    <item>
       <title>Version 0.4.0</title>
       <pubDate>Tue, 24 Nov 2026 09:54:17 GMT</pubDate>
       <sparkle:version>29</sparkle:version>
