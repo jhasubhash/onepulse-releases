@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepulse-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.4.5</title>
+      <pubDate>Wed, 25 Nov 2026 02:24:12 GMT</pubDate>
+      <sparkle:version>34</sparkle:version>
+      <sparkle:shortVersionString>0.4.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Exercise pictures now move: most exercises play a smooth looping animation of the movement instead of switching between two pictures.</li><li>Fix: discarding a paused workout on the iPhone now ends it on the Apple Watch too, and it&#x27;s no longer saved to Health.</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepulse-releases/releases/download/v0.4.5/OnePulse-0.4.5.dmg" type="application/octet-stream" sparkle:edSignature="f/9TYCaGbXy+mUW6Sn4v5GH2pYsgwYPezhzg58BHbT4b8j38YRbdGX40CqycISU3q/sP7LFnNXcrYnAKfzEpDw==" length="35690015"/>
+    </item>
+    <item>
       <title>Version 0.4.4</title>
       <pubDate>Tue, 24 Nov 2026 15:08:18 GMT</pubDate>
       <sparkle:version>33</sparkle:version>
