@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepulse-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.4.7</title>
+      <pubDate>Wed, 25 Nov 2026 13:38:04 GMT</pubDate>
+      <sparkle:version>36</sparkle:version>
+      <sparkle:shortVersionString>0.4.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Make OnePulse yours: Summary, Heart and Sleep have a Customize button (top of the page and at its foot) to reorder cards and show or hide them. On Summary you can also pick which metrics appear under Highlights.</li><li>iPhone tab bar: choose the pages between Summary and Browse (Browse › Customize tab bar). When it&#x27;s full, tap a page and pick the tab it replaces.</li><li>Charts no longer repeat the goal as a label on the goal line.</li><li>Fix: tags on the Training card could overlap the line below.</li><li>Fix: before the first sync, Browse drew &quot;No data yet&quot; over its list of pages.</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepulse-releases/releases/download/v0.4.7/OnePulse-0.4.7.dmg" type="application/octet-stream" sparkle:edSignature="EgcT3rSBdVB7tF/H4LOWL41ZwsiBdFcNf4Tdl6OYFlGv6Rbq/3kRT56NVuVlUdtQSCzSfzG9VE/fEZI9fKDrBA==" length="35790477"/>
+    </item>
+    <item>
       <title>Version 0.4.6</title>
       <pubDate>Wed, 25 Nov 2026 08:54:28 GMT</pubDate>
       <sparkle:version>35</sparkle:version>
