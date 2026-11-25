@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepulse-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.4.6</title>
+      <pubDate>Wed, 25 Nov 2026 08:54:28 GMT</pubDate>
+      <sparkle:version>35</sparkle:version>
+      <sparkle:shortVersionString>0.4.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Floors climbed: the Steps widget shows today&#x27;s floors beside the distance, and the Steps page shows distance and floors under the chart. On iPhone they update live from the motion sensor, like steps.</li><li>Fix (Mac): the Summary and other pages could keep showing hours-old numbers after new data arrived from the iPhone. They now refresh within about 90 seconds.</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepulse-releases/releases/download/v0.4.6/OnePulse-0.4.6.dmg" type="application/octet-stream" sparkle:edSignature="J2t9hIOeiJjlfJhJ8w5a/KnvZqu/KPw7FrFhaGc4E0imygT/aEY7+TzU0ezihlWdSkZYercd0c1Aqy3iGJVYAA==" length="35712445"/>
+    </item>
+    <item>
       <title>Version 0.4.5</title>
       <pubDate>Wed, 25 Nov 2026 02:24:12 GMT</pubDate>
       <sparkle:version>34</sparkle:version>
