@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepulse-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.4.8</title>
+      <pubDate>Thu, 26 Nov 2026 13:05:11 GMT</pubDate>
+      <sparkle:version>37</sparkle:version>
+      <sparkle:shortVersionString>0.4.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Guided workouts: change reps and dumbbell weight as you go (the next sets follow), and the calories count what you actually lifted.</li><li>How did that set feel? Easy, About right or Too hard after each set moves the next set&#x27;s weight and next time&#x27;s suggestion.</li><li>Workouts for your level: pick Beginner, Intermediate or Advanced; sets, reps, intervals and starting weights follow it. Sets vary instead of always 3, and the voice says how many there are.</li><li>Starting weights for dumbbells and kettlebells, and the weights you own: list them per place in Training Settings and guesses and −/+ snap to them.</li><li>Every dumbbell exercise says whether you hold one in each hand, one in both hands or one in one hand. New front-view pictures for the lunge, split squat, front raise, curl and Romanian deadlift show both dumbbells.</li><li>Optional warm-up before strength workouts (on for beginners).</li><li>&quot;Start today&#x27;s workout&quot; from Siri, Shortcuts, the Action button or the Training widget.</li><li>Shorter Train page: what to do now first; routines, recovery and history fold away.</li><li>Editing a finished workout updates its calories in Health. Volume counts both dumbbells of a pair.</li><li>Calories use each set&#x27;s real length and the weight lifted.</li><li>The voice keeps going when you switch apps, and no longer says &quot;tap done&quot;.</li><li>Fix: leaving a workout early left its Live Activity on the Lock Screen.</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepulse-releases/releases/download/v0.4.8/OnePulse-0.4.8.dmg" type="application/octet-stream" sparkle:edSignature="f+LLuZ0gLBhbz3NBUsZbgTSzp98Yb2s3u7HtxJKx3iRLr2/9dr2IIWHroPe/wh0gRa8rda/TiGjrENGpBPB+Cw==" length="35976055"/>
+    </item>
+    <item>
       <title>Version 0.4.7</title>
       <pubDate>Wed, 25 Nov 2026 13:38:04 GMT</pubDate>
       <sparkle:version>36</sparkle:version>
