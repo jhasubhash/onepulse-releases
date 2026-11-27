@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepulse-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.5.3</title>
+      <pubDate>Fri, 27 Nov 2026 05:28:10 GMT</pubDate>
+      <sparkle:version>42</sparkle:version>
+      <sparkle:shortVersionString>0.5.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>**Device sync fixes**</p><ul><li>**New Health data goes out sooner:** if new data arrives while your devices are mid-sync, OnePulse sends it as soon as that sync ends, instead of up to a minute later.</li><li>**Only your own devices are flagged:** the &quot;nearby but paired separately&quot; note now names only devices you&#x27;ve synced with before, not someone else&#x27;s OnePulse on the same Wi-Fi.</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepulse-releases/releases/download/v0.5.3/OnePulse-0.5.3.dmg" type="application/octet-stream" sparkle:edSignature="RRas58JcR/wu9cDsWBCPsILA4VaiBS4JSQAxdkE1RQ2+U41S/vD3IW1Bmw5+7OaEFflHpOH4Jg0Vv1mr0RhoCw==" length="36287217"/>
+    </item>
+    <item>
       <title>Version 0.5.2</title>
       <pubDate>Fri, 27 Nov 2026 05:07:17 GMT</pubDate>
       <sparkle:version>41</sparkle:version>
