@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepulse-releases</link>
     <language>en</language>
     <item>
+      <title>Version 1.0</title>
+      <pubDate>Fri, 27 Nov 2026 05:50:45 GMT</pubDate>
+      <sparkle:version>44</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>**OnePulse 1.0**</p><p>OnePulse is out of beta, and coming to the App Store for iPhone, iPad and Apple Watch.</p><ul><li>**Your devices sync directly, with no cloud:** pair once with a code, and your iPhone sends your Health data straight to your Mac and iPad over Wi-Fi or side by side.</li><li>**All your devices stay in one group,** whichever device scans whose code.</li><li>**Clearer sync status,** with plain explanations when something needs your attention.</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepulse-releases/releases/download/v1.0/OnePulse-1.0.dmg" type="application/octet-stream" sparkle:edSignature="67zD3KDAoTCoSBeIHsCB/qqf1w/WKY1MJgriVneIVJ/P/2uMLf3a5BklC4FkbMBS9PeXgRVYbVQN82M8EuG3BA==" length="36285636"/>
+    </item>
+    <item>
       <title>Version 0.5.3</title>
       <pubDate>Fri, 27 Nov 2026 05:28:10 GMT</pubDate>
       <sparkle:version>42</sparkle:version>
