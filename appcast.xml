@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepulse-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.5.0</title>
+      <pubDate>Fri, 27 Nov 2026 04:25:09 GMT</pubDate>
+      <sparkle:version>39</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>**Your devices now sync directly, without iCloud.** Apple doesn&#x27;t allow health data in iCloud, so OnePulse sends it straight between your iPhone, iPad and Mac, on the same Wi-Fi or side by side (over the same peer-to-peer Wi-Fi AirDrop uses). Nothing goes through iCloud or any server.</p><ul><li>**Pair once:** on the Mac, open Sync › Pair a Device to show a code, then scan it with your iPhone (Sync › Pair a Device, or the Camera app). Pair your iPad the same way.</li><li>**Your data comes along:** the Mac copies everything from the old iCloud folder (Health data, lab reports, workouts, goals, check-in photos) and passes it to your other devices.</li><li>**The Mac keeps syncing with its window closed**, and can open at login (Sync page), so your iPhone can reach it.</li><li>Allow **Local Network** when asked: it&#x27;s how your devices find each other.</li><li>The iPhone sends new Health data to your Mac and iPad as it arrives, and right away when you open the app.</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepulse-releases/releases/download/v0.5.0/OnePulse-0.5.0.dmg" type="application/octet-stream" sparkle:edSignature="KZJbpbKNU2XVKIf1/2yLea+BJES2x1MfqaOfvnzgwYvzvxwSugo1aTX/WybbETP1vydYHSEdZh9Cpkw+b8xsDw==" length="36225206"/>
+    </item>
+    <item>
       <title>Version 0.4.9</title>
       <pubDate>Fri, 27 Nov 2026 03:20:39 GMT</pubDate>
       <sparkle:version>38</sparkle:version>
