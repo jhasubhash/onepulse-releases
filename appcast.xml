@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepulse-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.5.1</title>
+      <pubDate>Fri, 27 Nov 2026 04:43:54 GMT</pubDate>
+      <sparkle:version>40</sparkle:version>
+      <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>**Device sync fixes**</p><ul><li>**One group for all your devices:** on a device that&#x27;s already paired, Pair a Device now shows its own code, so new devices join the same group. Scanning a code from a different group asks first instead of disconnecting the device from the others.</li><li>**Forget a device:** devices that aren&#x27;t in reach have a … menu to remove them from the list.</li><li>**Clearer messages:** sync problems now say what happened and what to do, instead of showing raw system errors. Brief dropped connections (the iPhone going to the background) no longer show at all.</li><li>**iPhone:** the Pair a Device button no longer wraps.</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepulse-releases/releases/download/v0.5.1/OnePulse-0.5.1.dmg" type="application/octet-stream" sparkle:edSignature="Wkq0KWFMInB6S/jwAT32BqbXuPUhUDu8btwGlXC/wf9P0R1X5N1/T3/WkZUtitbeqA5038J/AufMP2LtRNthCA==" length="36254818"/>
+    </item>
+    <item>
       <title>Version 0.5.0</title>
       <pubDate>Fri, 27 Nov 2026 04:25:09 GMT</pubDate>
       <sparkle:version>39</sparkle:version>
