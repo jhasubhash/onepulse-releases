@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepulse-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.5.2</title>
+      <pubDate>Fri, 27 Nov 2026 05:07:17 GMT</pubDate>
+      <sparkle:version>41</sparkle:version>
+      <sparkle:shortVersionString>0.5.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>**Device sync fixes**</p><ul><li>**All your devices stay in one group:** pairing in any direction now brings every device together. If a device joins another device&#x27;s code, it brings its other devices along the next time it sees them.</li><li>**Sync Now tells you how it went:** it shows a spinner, then either the new sync time or why nothing synced (no device in reach, a device paired separately, or what went wrong).</li><li>**Devices paired separately are pointed out:** if one of your devices is nearby but in an unrelated pairing group, the Sync page names it and explains how to bring it back.</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepulse-releases/releases/download/v0.5.2/OnePulse-0.5.2.dmg" type="application/octet-stream" sparkle:edSignature="M5mv7wOQcnhMiW4U2umcBm+mtS1uEUCljTP5jiydU2+vClnmBC1s01WXwfV3R3MaIJkmdsLOJ49ki9HIETaSAA==" length="36285654"/>
+    </item>
+    <item>
       <title>Version 0.5.1</title>
       <pubDate>Fri, 27 Nov 2026 04:43:54 GMT</pubDate>
       <sparkle:version>40</sparkle:version>
