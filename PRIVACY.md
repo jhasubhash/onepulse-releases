@@ -14,9 +14,10 @@ OnePulse is made by Subhash Jha (onesyntax.in). It's built so that your health d
 
 ## Where it goes
 
-- Your data is stored **on your devices** and in **your own iCloud Drive** (the app's private
-  iCloud container), which is how your iPhone, iPad and Mac share it. Apple holds that data under
-  your iCloud account; see Apple's privacy policy.
+- Your data is stored **on your devices** only. Your iPhone, iPad and Mac share it **directly with
+  each other** over your local network or Apple's peer-to-peer Wi-Fi, once you pair them with a
+  code, encrypted with a key only your paired devices hold. It is **not** stored in iCloud or any
+  other cloud. (Like any app's data, it can be part of your device backups if you make them.)
 - OnePulse has **no server**. I (the developer) never receive, see or store your health data.
 - There's **no account, no advertising, no analytics and no tracking**, and nothing is sold or shared.
 - Lab reports and photos are read **on your device** (Apple's Vision and PDFKit). The weekly review
@@ -38,8 +39,7 @@ request includes only standard information such as the app version and macOS ver
 
 ## Deleting your data
 
-Delete the app on each device, and remove its data in Settings › [your name] › iCloud › Manage
-Storage › OnePulse (or System Settings on the Mac). Data you allowed OnePulse to write to Health
+Delete the app on each device; OnePulse keeps no copy anywhere else. Data you allowed OnePulse to write to Health
 stays in Health until you delete it there.
 
 ## Not medical advice

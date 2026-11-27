@@ -3,7 +3,7 @@
 <p align="center">
   <b>All of Apple Health, on your Mac, iPad and iPhone.</b><br>
   A private health dashboard with charts you can explore, lab results over time, readiness,
-  training load and an MCP server so your AI agents can read your data. Synced through your own iCloud.
+  training load and an MCP server so your AI agents can read your data. Synced directly between your devices, no cloud.
 </p>
 
 <p align="center">
@@ -34,8 +34,8 @@
   &nbsp;·&nbsp; iPhone and iPad via TestFlight
 </p>
 
-The iPhone app reads everything in Apple Health and sends it, privately, through your own iCloud
-Drive to OnePulse on your Mac and iPad. All three show the same dashboard, built for exploring
+The iPhone app reads everything in Apple Health and sends it, privately and directly, to
+OnePulse on your Mac and iPad (over your Wi-Fi, or device to device). No iCloud, no server. All three show the same dashboard, built for exploring
 years of data rather than glancing at today.
 
 *Screenshots show built-in sample data.*
@@ -87,7 +87,7 @@ changing and patterns that travel together.
 </p>
 
 - **Body progress:** guided check-in photos, measured on-device (waist, V-taper, face and more),
-  with an aligned before/after slider and a timelapse. Photos never leave your devices and iCloud.
+  with an aligned before/after slider and a timelapse. Photos never leave your devices.
 - **Goals** for any metric, as a daily habit or a target with a projected date.
 - **Medications and supplements** with reminders, adherence and what changed since you started.
 - **Compare** any two metrics to find links, like steps and sleep, with lags.
@@ -137,7 +137,7 @@ iPhone that has your Health data first: it's what sends your data to the Mac and
 
 ## Privacy
 
-Your health data goes from Apple Health to your own iCloud Drive and your own devices. There's no
+Your health data goes from Apple Health straight to your own devices. There's no cloud, no
 server, no account and no analytics. See [PRIVACY.md](PRIVACY.md).
 
 ## Support
