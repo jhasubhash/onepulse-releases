@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepulse-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.4.9</title>
+      <pubDate>Fri, 27 Nov 2026 03:20:39 GMT</pubDate>
+      <sparkle:version>38</sparkle:version>
+      <sparkle:shortVersionString>0.4.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Activity Rings and streaks catch up with today&#x27;s stand hours, exercise minutes and calories as soon as they sync, instead of waiting for Health&#x27;s daily summary.</li><li>Bar charts: tap a bar to select it; tap the empty chart to clear the selection.</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepulse-releases/releases/download/v0.4.9/OnePulse-0.4.9.dmg" type="application/octet-stream" sparkle:edSignature="KYk/GJ8UzYQEbVegIWSVHxoWLqR8wd5+/I4wNvLbMqAl5+3wAtaq9FMBeynpjR9eBr3avR1RTuwPGtZEkDjwBw==" length="35995596"/>
+    </item>
+    <item>
       <title>Version 0.4.8</title>
       <pubDate>Thu, 26 Nov 2026 13:05:11 GMT</pubDate>
       <sparkle:version>37</sparkle:version>
