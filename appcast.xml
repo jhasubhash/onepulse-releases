@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepulse-releases</link>
     <language>en</language>
     <item>
+      <title>Version 1.0.1</title>
+      <pubDate>Fri, 27 Nov 2026 14:46:57 GMT</pubDate>
+      <sparkle:version>45</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>**OnePulse 1.0.1**</p><ul><li>**Steps widget keeps up:** it shows the new count as soon as you leave the app.</li><li>**Health data reaches your Mac and iPad sooner:** the iPhone finishes sending new data even when you switch away right after it starts.</li><li>**Guided workouts:**</li><li>The controls always fit on the screen.</li><li>Finishing saves the workout straight away, with no second page.</li><li>A set ticked on your Apple Watch is logged on the iPhone.</li><li>**Swap** an exercise for a similar, easier one mid-workout.</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepulse-releases/releases/download/v1.0.1/OnePulse-1.0.1.dmg" type="application/octet-stream" sparkle:edSignature="N2wpr+QLj2ErKc23uCK9vdP/W+TEd9TO4O+GlrFU6gEI9vRtMcHZ2SfDhE3xxvEwhhzJTyTw35hMXBH3GzLAAg==" length="36323151"/>
+    </item>
+    <item>
       <title>Version 1.0</title>
       <pubDate>Fri, 27 Nov 2026 05:50:45 GMT</pubDate>
       <sparkle:version>44</sparkle:version>
