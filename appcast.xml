@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepulse-releases</link>
     <language>en</language>
     <item>
+      <title>Version 1.0.2</title>
+      <pubDate>Sat, 28 Nov 2026 11:58:30 GMT</pubDate>
+      <sparkle:version>46</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>**OnePulse 1.0.2**</p><ul><li>**Live step count:** today&#x27;s steps and floors update every few seconds while you walk, straight from your iPhone&#x27;s motion chip, and catch up the moment you open the app.</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepulse-releases/releases/download/v1.0.2/OnePulse-1.0.2.dmg" type="application/octet-stream" sparkle:edSignature="IlxeKuNcVP7S23Gro+png1Q7FNKxV1+E47OPJkoIkIXhfEsoug/gGAAFGIl86VRgHvXw+CxrImC3VJPppY6NCg==" length="36325287"/>
+    </item>
+    <item>
       <title>Version 1.0.1</title>
       <pubDate>Fri, 27 Nov 2026 14:46:57 GMT</pubDate>
       <sparkle:version>45</sparkle:version>
