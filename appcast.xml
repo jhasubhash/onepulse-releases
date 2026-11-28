@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepulse-releases</link>
     <language>en</language>
     <item>
+      <title>Version 1.0.4</title>
+      <pubDate>Sat, 28 Nov 2026 15:44:24 GMT</pubDate>
+      <sparkle:version>48</sparkle:version>
+      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>**OnePulse 1.0.4**</p><ul><li>**Apple Watch workouts, both ways:**</li><li>A workout started on the Watch now shows on the iPhone&#x27;s Train page, where you can pause, end and save, or discard it.</li><li>Pause, end or discard on either device, whichever one started the workout.</li><li>A workout started on the iPhone opens on the Watch reliably, even right after discarding another one.</li><li>End on the Watch finishes the workout on the iPhone too, even with its page closed.</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepulse-releases/releases/download/v1.0.4/OnePulse-1.0.4.dmg" type="application/octet-stream" sparkle:edSignature="uQ4U44LTzt6BxmozTs2HrfDSxlaLatdt7ibchKyFHWbnvL5PjQJnLHSMCt8mBfEnKBkvn3xaDCUEQ1wMt/gqAw==" length="36374479"/>
+    </item>
+    <item>
       <title>Version 1.0.3</title>
       <pubDate>Sat, 28 Nov 2026 14:39:11 GMT</pubDate>
       <sparkle:version>47</sparkle:version>
