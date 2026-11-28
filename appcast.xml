@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepulse-releases</link>
     <language>en</language>
     <item>
+      <title>Version 1.0.3</title>
+      <pubDate>Sat, 28 Nov 2026 14:39:11 GMT</pubDate>
+      <sparkle:version>47</sparkle:version>
+      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>**OnePulse 1.0.3**</p><ul><li>**Apple Watch workouts:**</li><li>**Pause** holds the workout clock, rest and timed sets, and pausing on the Watch or the iPhone pauses both.</li><li>**Discard** is there for every workout, running or paused, and removes it from the Watch, the iPhone and Health.</li><li>**End and save** saves the workout straight away, with no page to confirm on the iPhone.</li><li>**One workout at a time:** starting a workout while another is in progress asks whether to resume it or discard it first.</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepulse-releases/releases/download/v1.0.3/OnePulse-1.0.3.dmg" type="application/octet-stream" sparkle:edSignature="73XLkOEVMZ/rLjo60CEujdiGuiNdUbVTVuvNZKKkdk2V0kbU1ShnJ6SI0KXcBUVwSashC8Hxqc4hhHuu2hxGCQ==" length="36348647"/>
+    </item>
+    <item>
       <title>Version 1.0.2</title>
       <pubDate>Sat, 28 Nov 2026 11:58:30 GMT</pubDate>
       <sparkle:version>46</sparkle:version>
